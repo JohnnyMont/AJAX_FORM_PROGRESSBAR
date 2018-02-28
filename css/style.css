@@ -1,0 +1,26 @@
+div.porcentagem{
+	width: 570px;
+	padding: 5px;
+	background: #fff;
+	border: 1px solid #069;
+}
+div.porcentagem span.valor{
+	display: block;
+	background: #069;
+	width: 0%;
+}
+div.porcentagem span.valor p{
+	font:15px tahoma, arial, helvetica;
+	color: #fff;
+	text-shadow: #000 0 1px 0;
+	margin: 5px;
+}
+div.mensagens{
+	float: left;
+	width: 570px;
+	padding: 5px;
+	border: 1PX solid #036;
+	background: purple;
+	color:#fff;
+	margin-top: 5px;
+}
